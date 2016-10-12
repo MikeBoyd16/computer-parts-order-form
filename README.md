@@ -1,4 +1,8 @@
 # computer-parts-order-form
-My Fall 2014 final project in CS133B (Visual Basic I)
-
-![Image of program logo](/images/ComputerPartsOrderLogo.png)
+<p align="center">
+  <img src="/images/ComputerPartsOrderLogo.png" />
+</p>
+<p align="center">
+  <img style="display:inline" src="/images/MainForm.png" />
+  <img style="display:inline" src="/images/SummaryForm.png" />
+</p>
